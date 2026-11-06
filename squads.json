@@ -1,0 +1,17 @@
+{
+  "JA":    {"auto": true, "ft": 0, "bank": 0.9, "sell": {},
+            "GK": [["Kinsky","TOT"],["Tzolakis","HUL"]],
+            "DEF": [["Calafiori","ARS"],["De Cuyper","BHA"],["Gabriel","ARS"],["Vuskovic","BHA"],["Van Hecke","TOT"]],
+            "MID": [["Rogers","CHE"],["Tavernier","BOU"],["Mbeumo","MUN"],["Groß","BHA"],["Belloumi","HUL"]],
+            "FWD": [["Evanilson","BOU"],["Haaland","MCI"],["Calvert-Lewin","LEE"]]},
+  "STIPE": {"auto": true, "ft": 1, "bank": 0.0,
+            "GK": [["Suzuki","AVL"],["Raya","ARS"]],
+            "DEF": [["Gabriel","ARS"],["Kayode","BRE"],["Truffert","BOU"],["Mykolenko","EVE"],["De Cuyper","BHA"]],
+            "MID": [["Rogers","CHE"],["Kudus","TOT"],["Henderson","CHE"],["McGinn","AVL"],["Gakpo","LIV"]],
+            "FWD": [["Haaland","MCI"],["N.Jackson","AVL"],["Evanilson","BOU"]]},
+  "SRBI":  {"auto": true, "ft": 1, "bank": 0.0,
+            "GK": [["Raya","ARS"],["Dubravka","TOT"]],
+            "DEF": [["Calafiori","ARS"],["De Cuyper","BHA"],["Hall","NEW"],["Vuskovic","BHA"],["N.Williams","NFO"]],
+            "MID": [["Enzo","MCI"],["Rogers","CHE"],["Palmer","CHE"],["Doku","MCI"],["Saka","ARS"]],
+            "FWD": [["Isak","LIV"],["João Pedro","CHE"],["Kostoulas","BHA"]]}
+}

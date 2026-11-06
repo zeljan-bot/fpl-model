@@ -1,0 +1,7 @@
+{
+  "entries": {"JA": 0, "STIPE": 0, "SRBI": 0},
+  "league_id": 0,
+  "odds_bookmakers": ["pinnacle", "betfair_ex_eu", "williamhill", "marathonbet", "unibet_se"],
+  "odds_regions": "eu",
+  "keep_snapshots_days": 400
+}
