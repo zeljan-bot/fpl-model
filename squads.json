@@ -1,5 +1,5 @@
 {
-  "JA":    {"auto": true, "ft": 0, "bank": 0.9, "sell": {},
+  "JA":    {"auto": false, "ft": 0, "bank": 0.9, "sell": {},
             "GK": [["Kinsky","TOT"],["Tzolakis","HUL"]],
             "DEF": [["Calafiori","ARS"],["De Cuyper","BHA"],["Gabriel","ARS"],["Vuskovic","BHA"],["Van Hecke","TOT"]],
             "MID": [["Rogers","CHE"],["Tavernier","BOU"],["Mbeumo","MUN"],["Groß","BHA"],["Belloumi","HUL"]],
